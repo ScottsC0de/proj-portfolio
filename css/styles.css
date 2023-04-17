@@ -15,7 +15,7 @@ code {
 }
 
 header {
-    margin-bottom: 50px;
+    margin: 25px;
     padding: 15px;
 }
 
@@ -25,4 +25,10 @@ header {
 
 .code-two {
     color: whitesmoke;
+}
+
+.footer-links {
+    color: whitesmoke;
+    text-decoration: none;
+    cursor: pointer;
 }
