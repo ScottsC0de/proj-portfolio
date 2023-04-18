@@ -75,5 +75,11 @@ The author is a developer with a GitHub account: https://github.com/ScottsC0de &
 
 ## <a id="screenshots-id"></a>Screenshots
 
-**Coming Soon**
+![Screenshot of the header of my portfolio site](img/sitepic1.png)
+<br>
+
+![Screenshot of my work listed on my portfolio site](img/sitepic2.png)
+<br>
+
+![Screenshot of the footer of my portfolio site](img/sitepic3.png)
 
